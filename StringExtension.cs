@@ -8,6 +8,8 @@ using System.Threading.Tasks;
 
 namespace EvolentHealth.CCD.Common.Extension
 {
+    
+    
     public static class StringExtension
     {
         private static CultureInfo ci = CultureInfo.GetCultureInfo("sl-SI");
